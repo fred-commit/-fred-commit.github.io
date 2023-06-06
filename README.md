@@ -6,12 +6,12 @@ Colis - Bundler
 Bootstrap 4 - Bibliothèque de composants frontaux
 Sass - Langage d'extension CSS
 ScrollReveal.js - bibliothèque JavaScript
-Tilt.js - petite bibliothèque de parallaxe JavaScript
 Comment utiliser🔧
 Depuis votre ligne de commande, clonez d'abord Simplefolio :
 
 # Clone the repository
-$ git clone https://github.com/cobiwave/simplefolio
+
+
 
 # Move into the repository
 $ cd simplefolio
